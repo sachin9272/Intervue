@@ -1,5 +1,9 @@
 {
   "build": {
-    "root": "backend"
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "rootDirectory": "backend",
+    "startCommand": "node server.js"
   }
 }
