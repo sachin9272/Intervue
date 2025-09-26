@@ -1,6 +1,6 @@
 {
   "build": {
-    "builder": "RAILPACK"
+    "builder": "NIXPACKS"
   },
   "deploy": {
     "rootDirectory": "backend",
